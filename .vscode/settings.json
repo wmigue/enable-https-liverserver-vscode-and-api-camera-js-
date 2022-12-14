@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.https": {
+        "enable": true, //set it true to enable
+        "cert": "G:\\_JAVASCRIPT\\API CAMARA JS\\keys\\certificado.crt", //full path of the certificate
+        "key": "G:\\_JAVASCRIPT\\API CAMARA JS\\keys\\clave.key", //full path of the private key
+        "passphrase": "123456"
+    }
+}
